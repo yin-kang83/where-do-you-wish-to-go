@@ -1,0 +1,11 @@
+﻿cff-version: 1.2.0
+message: "If you use this demonstration repository, please cite it as below."
+title: "五个错凭证（分层设计）：分层复核最小演示"
+authors:
+  - family-names: "Yin"
+    given-names: "Kang"
+    orcid: "https://orcid.org/0009-0001-2723-1293"
+date-released: 2026-11-17
+license: MIT
+repository-code: "https://github.com/yin-kang83/where-do-you-wish-to-go"
+abstract: "五张故意做错的合成凭证，用于演示分层复核（数据/计量/准则/勾稽/定性）的边界。"
