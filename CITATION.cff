@@ -9,3 +9,6 @@ date-released: 2026-11-17
 license: MIT
 repository-code: "https://github.com/yin-kang83/where-do-you-wish-to-go"
 abstract: "五张故意做错的合成凭证，用于演示分层复核（数据/计量/准则/勾稽/定性）的边界。"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24295158
